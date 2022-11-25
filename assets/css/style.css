@@ -1,0 +1,8 @@
+body{
+	font-family: "Montserrat", Fraunces, sans-serif;
+	background-color: hsl(30, 38%, 92%);
+	color: hsl(158, 36%, 37%);
+}
+p{
+	font-size: 14px;
+}
