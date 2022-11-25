@@ -1,0 +1,1 @@
+Challenge "Product preview card component" from Frontend Mentor.
