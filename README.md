@@ -1,6 +1,6 @@
 Challenge "Product preview card component" from Frontend Mentor.
 
-- Live Site URL: [https://pozemky.github.io/card-frontend/](https://pozemky.github.io/card-frontend/)
+- Live Site URL: [https://edgardneves.github.io/card-frontend/](https://edgardneves.github.io/card-frontend/)
 
 ### Built with
 
@@ -18,4 +18,4 @@ Challenge "Product preview card component" from Frontend Mentor.
 
 - Linkedin - [Edgard Neves](https://www.linkedin.com/in/edgard-jr-neves/)
 - Frontend Mentor - [@pozemky](hhttps://www.frontendmentor.io/profile/pozemky)
-- GitHub - [pozemky](https://github.com/pozemky)
+- GitHub - [edgardneves](https://github.com/edgardneves)
