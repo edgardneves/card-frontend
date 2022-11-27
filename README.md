@@ -1,6 +1,6 @@
 Challenge "Product preview card component" from Frontend Mentor.
 
-- Live Site URL: [Add live site URL here](https://pozemky.github.io/card-frontend/)
+- Live Site URL: [https://pozemky.github.io/card-frontend/](https://pozemky.github.io/card-frontend/)
 
 ### Built with
 
